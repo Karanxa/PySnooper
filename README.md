@@ -163,3 +163,6 @@ Copyright (c) 2019 Ram Rachum and collaborators, released under the MIT license.
 
 [Hacker News thread](https://news.ycombinator.com/item?id=19717786)
 and [/r/Python Reddit thread](https://www.reddit.com/r/Python/comments/bg0ida/pysnooper_never_use_print_for_debugging_again/) (22 April 2019)
+
+
+<!-- Security scan triggered at 2025-09-02 14:30:02 -->
